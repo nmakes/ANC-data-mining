@@ -1,0 +1,76 @@
+These are rules of the form ("Popular" -> "Non-popular") and with support > 0.01
+
+164 -> 151
+Kadhai Paneer ----> Butter Naan
+
+146 -> 151
+Butter Chicken ----> Butter Naan
+
+123 -> 2
+Pastry ----> Veg Petty
+
+148 -> 155
+Tandury Chicken ----> Pepsi
+
+12 -> 155
+Pasta ----> Pepsi
+
+148 -> 151
+Tandury Chicken ----> Butter Naan
+
+146 -> 155
+Butter Chicken ----> Pepsi
+
+164 -> 155
+Kadhai Paneer ----> Pepsi
+
+130 -> 134
+Masala Dosa ----> Plain Maggi
+
+123 -> 155
+Pastry ----> PEPSI
+
+169 -> 134
+Pulpy Orange ----> Plain Maggi
+
+169 -> 151
+Pulpy Orange ----> Butter Naan
+
+159 -> 134
+MyCan ----> Plain Maggi
+
+12 -> 134
+Pasta ----> Plain Maggi
+
+107 -> 155
+Bingo chips ----> PEPSI
+
+135 -> 155
+Fried Maggie ----> PEPSI
+
+138 -> 155
+Paneer Franky ----> Pepsi
+
+130 -> 155
+Masala Dosa ----> Pepsi
+
+107 -> 134
+Bingo chips ----> Plain Maggi
+
+124 -> 155
+Cheese Burger ----> Pepsi
+
+179 -> 2
+Mix Juice ----> Veg Petty
+
+142 -> 134
+Chicken Sandwich ----> Plain Maggi
+
+188 -> 2
+Samosa Chat ----> Veg Petty
+
+1 -> 134
+Samosa ----> Plain Maggi
+
+177 -> 151
+Chilly Chicken ----> Butter Naan

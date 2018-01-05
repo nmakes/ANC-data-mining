@@ -1,0 +1,378 @@
+minsup: 0.08
+minconf: 6.0
+profit: 3.93621767257% ( Rs. 44910.0 )
+penalty: 37195.1
+profit/penalty: 1.20741710602
+
+minsup: 0.09
+minconf: 6.0
+profit: 3.92263241897% ( Rs. 44755.0 )
+penalty: 36604.7
+profit/penalty: 1.22265719976
+
+minsup: 0.1
+minconf: 6.0
+profit: 3.90969575167% ( Rs. 44607.4 )
+penalty: 36164.1
+profit/penalty: 1.23347186851
+
+minsup: 0.11
+minconf: 6.0
+profit: 3.82545841466% ( Rs. 43646.3 )
+penalty: 34874.0
+profit/penalty: 1.25154269656
+
+minsup: 0.12
+minconf: 6.0
+profit: 3.80200413167% ( Rs. 43378.7 )
+penalty: 34698.8
+profit/penalty: 1.25014986109
+
+minsup: 0.13
+minconf: 6.0
+profit: 3.79409839054% ( Rs. 43288.5 )
+penalty: 34461.2
+profit/penalty: 1.25615184613
+
+minsup: 0.14
+minconf: 6.0
+profit: 3.5895482947% ( Rs. 40954.7 )
+penalty: 32887.6
+profit/penalty: 1.24529305878
+
+minsup: 0.15
+minconf: 6.0
+profit: 3.5166436886% ( Rs. 40122.9 )
+penalty: 32110.4
+profit/penalty: 1.24952974737
+
+minsup: 0.16
+minconf: 6.0
+profit: 3.4135798195% ( Rs. 38947.0 )
+penalty: 29335.4
+profit/penalty: 1.32764509773
+
+minsup: 0.08
+minconf: 5.0
+profit: 4.72426755763% ( Rs. 53901.2 )
+penalty: 43502.1
+profit/penalty: 1.23904822986
+
+minsup: 0.09
+minconf: 5.0
+profit: 4.71068230402% ( Rs. 53746.2 )
+penalty: 42911.7
+profit/penalty: 1.25248358839
+
+minsup: 0.1
+minconf: 5.0
+profit: 4.69774563672% ( Rs. 53598.6 )
+penalty: 42471.1
+profit/penalty: 1.26200169056
+
+minsup: 0.11
+minconf: 5.0
+profit: 4.61350829971% ( Rs. 52637.5 )
+penalty: 40998.2
+profit/penalty: 1.28389782966
+
+minsup: 0.12
+minconf: 5.0
+profit: 4.5770822907% ( Rs. 52221.9 )
+penalty: 39873.0
+profit/penalty: 1.30970581597
+
+minsup: 0.13
+minconf: 5.0
+profit: 4.56917654957% ( Rs. 52131.7 )
+penalty: 39635.4
+profit/penalty: 1.31528128895
+
+minsup: 0.14
+minconf: 5.0
+profit: 4.50654414813% ( Rs. 51417.1 )
+penalty: 37980.2
+profit/penalty: 1.35378697321
+
+minsup: 0.15
+minconf: 5.0
+profit: 4.43363954203% ( Rs. 50585.3 )
+penalty: 37083.0
+profit/penalty: 1.36411023919
+
+minsup: 0.16
+minconf: 5.0
+profit: 4.37033226024% ( Rs. 49863.0 )
+penalty: 33559.2
+profit/penalty: 1.48582206966
+
+minsup: 0.08
+minconf: 4.0
+profit: 5.02433513331% ( Rs. 57324.8 )
+penalty: 53170.1
+profit/penalty: 1.07813978157
+
+minsup: 0.09
+minconf: 4.0
+profit: 5.0107498797% ( Rs. 57169.8 )
+penalty: 52579.7
+profit/penalty: 1.08729794959
+
+minsup: 0.1
+minconf: 4.0
+profit: 4.98243119946% ( Rs. 56846.7 )
+penalty: 51581.1
+profit/penalty: 1.10208390282
+
+minsup: 0.11
+minconf: 4.0
+profit: 4.871084708% ( Rs. 55576.3 )
+penalty: 49090.0
+profit/penalty: 1.1321307802
+
+minsup: 0.12
+minconf: 4.0
+profit: 4.83741957311% ( Rs. 55192.2 )
+penalty: 48044.8
+profit/penalty: 1.14876531904
+
+minsup: 0.13
+minconf: 4.0
+profit: 4.80926742177% ( Rs. 54871.0 )
+penalty: 44546.8
+profit/penalty: 1.23176075498
+
+minsup: 0.14
+minconf: 4.0
+profit: 4.70332873772% ( Rs. 53662.3 )
+penalty: 41640.8
+profit/penalty: 1.28869522199
+
+minsup: 0.15
+minconf: 4.0
+profit: 4.58929148958% ( Rs. 52361.2 )
+penalty: 40023.6
+profit/penalty: 1.3082581277
+
+minsup: 0.16
+minconf: 4.0
+profit: 4.48973349238% ( Rs. 51225.3 )
+penalty: 36367.8
+profit/penalty: 1.4085344728
+
+minsup: 0.08
+minconf: 3.0
+profit: 5.38890198722% ( Rs. 61484.3 )
+penalty: 63557.5
+profit/penalty: 0.967380718247
+
+minsup: 0.09
+minconf: 3.0
+profit: 5.33513067699% ( Rs. 60870.8 )
+penalty: 62411.1
+profit/penalty: 0.975320095304
+
+minsup: 0.1
+minconf: 3.0
+profit: 5.27754673108% ( Rs. 60213.8 )
+penalty: 60210.3
+profit/penalty: 1.00005812959
+
+minsup: 0.11
+minconf: 3.0
+profit: 5.16774282326% ( Rs. 58961.0 )
+penalty: 55516.2
+profit/penalty: 1.06205035647
+
+minsup: 0.12
+minconf: 3.0
+profit: 5.05893808893% ( Rs. 57719.6 )
+penalty: 52578.0
+profit/penalty: 1.09778995017
+
+minsup: 0.13
+minconf: 3.0
+profit: 4.98567413096% ( Rs. 56883.7 )
+penalty: 48046.6
+profit/penalty: 1.18392768687
+
+minsup: 0.14
+minconf: 3.0
+profit: 4.82264232306% ( Rs. 55023.6 )
+penalty: 44382.2
+profit/penalty: 1.2397672941
+
+minsup: 0.15
+minconf: 3.0
+profit: 4.69811375327% ( Rs. 53602.8 )
+penalty: 42033.0
+profit/penalty: 1.27525515666
+
+minsup: 0.16
+minconf: 3.0
+profit: 4.59855575607% ( Rs. 52466.9 )
+penalty: 37743.6
+profit/penalty: 1.39008732606
+
+minsup: 0.08
+minconf: 2.0
+profit: 6.11498558648% ( Rs. 69768.5 )
+penalty: 90087.1
+profit/penalty: 0.774456054196
+
+minsup: 0.09
+minconf: 2.0
+profit: 5.93484512373% ( Rs. 67713.2 )
+penalty: 84360.5
+profit/penalty: 0.802664754239
+
+minsup: 0.1
+minconf: 2.0
+profit: 5.8512213143% ( Rs. 66759.1 )
+penalty: 76141.3
+profit/penalty: 0.876779093606
+
+minsup: 0.11
+minconf: 2.0
+profit: 5.58866656792% ( Rs. 63763.5 )
+penalty: 67614.4
+profit/penalty: 0.943046155848
+
+minsup: 0.12
+minconf: 2.0
+profit: 5.42388182407% ( Rs. 61883.4 )
+penalty: 59022.6
+profit/penalty: 1.04846956928
+
+minsup: 0.13
+minconf: 2.0
+profit: 5.26749364342% ( Rs. 60099.1 )
+penalty: 52589.8
+profit/penalty: 1.14279004674
+
+minsup: 0.14
+minconf: 2.0
+profit: 5.07922832254% ( Rs. 57951.1 )
+penalty: 46438.8
+profit/penalty: 1.24790261592
+
+minsup: 0.15
+minconf: 2.0
+profit: 4.85725404337% ( Rs. 55418.5 )
+penalty: 43453.6
+profit/penalty: 1.27534887788
+
+minsup: 0.16
+minconf: 2.0
+profit: 4.67508893959% ( Rs. 53340.1 )
+penalty: 38481.2
+profit/penalty: 1.38613400829
+
+minsup: 0.08
+minconf: 1.0
+profit: 6.27136500246% ( Rs. 71552.7 )
+penalty: 105439.7
+profit/penalty: 0.67861251502
+
+minsup: 0.09
+minconf: 1.0
+profit: 6.05469335453% ( Rs. 69080.6 )
+penalty: 92567.9
+profit/penalty: 0.746269495149
+
+minsup: 0.1
+minconf: 1.0
+profit: 5.89181931087% ( Rs. 67222.3 )
+penalty: 80933.7
+profit/penalty: 0.830584787301
+
+minsup: 0.11
+minconf: 1.0
+profit: 5.63469866593% ( Rs. 64288.7 )
+penalty: 70644.4
+profit/penalty: 0.910032500807
+
+minsup: 0.12
+minconf: 1.0
+profit: 5.44042953942% ( Rs. 62072.2 )
+penalty: 59842.0
+profit/penalty: 1.03726813943
+
+minsup: 0.13
+minconf: 1.0
+profit: 5.26749364342% ( Rs. 60099.1 )
+penalty: 52589.8
+profit/penalty: 1.14279004674
+
+minsup: 0.14
+minconf: 1.0
+profit: 5.07922832254% ( Rs. 57951.1 )
+penalty: 46438.8
+profit/penalty: 1.24790261592
+
+minsup: 0.15
+minconf: 1.0
+profit: 4.85725404337% ( Rs. 55418.5 )
+penalty: 43453.6
+profit/penalty: 1.27534887788
+
+minsup: 0.16
+minconf: 1.0
+profit: 4.67508893959% ( Rs. 53340.1 )
+penalty: 38481.2
+profit/penalty: 1.38613400829
+
+minsup: 0.08
+minconf: 0.0
+profit: 6.27136500246% ( Rs. 71552.7 )
+penalty: 105439.7
+profit/penalty: 0.67861251502
+
+minsup: 0.09
+minconf: 0.0
+profit: 6.05469335453% ( Rs. 69080.6 )
+penalty: 92567.9
+profit/penalty: 0.746269495149
+
+minsup: 0.1
+minconf: 0.0
+profit: 5.89181931087% ( Rs. 67222.3 )
+penalty: 80933.7
+profit/penalty: 0.830584787301
+
+minsup: 0.11
+minconf: 0.0
+profit: 5.63469866593% ( Rs. 64288.7 )
+penalty: 70644.4
+profit/penalty: 0.910032500807
+
+minsup: 0.12
+minconf: 0.0
+profit: 5.44042953942% ( Rs. 62072.2 )
+penalty: 59842.0
+profit/penalty: 1.03726813943
+
+minsup: 0.13
+minconf: 0.0
+profit: 5.26749364342% ( Rs. 60099.1 )
+penalty: 52589.8
+profit/penalty: 1.14279004674
+
+minsup: 0.14
+minconf: 0.0
+profit: 5.07922832254% ( Rs. 57951.1 )
+penalty: 46438.8
+profit/penalty: 1.24790261592
+
+minsup: 0.15
+minconf: 0.0
+profit: 4.85725404337% ( Rs. 55418.5 )
+penalty: 43453.6
+profit/penalty: 1.27534887788
+
+minsup: 0.16
+minconf: 0.0
+profit: 4.67508893959% ( Rs. 53340.1 )
+penalty: 38481.2
+profit/penalty: 1.38613400829
+

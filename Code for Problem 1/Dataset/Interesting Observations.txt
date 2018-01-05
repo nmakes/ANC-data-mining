@@ -1,0 +1,36 @@
+Best Selling Items
+
+======
+AUGUST
+======
+
+ITEM NAME		ID		Price		avgR		Count
+------------------------------------------------------
+Pasta			12		30.000		4.142		936
+Chese Toast 	128		25.000		4.084		2518
+Chese burger 	124		25.000		4.131		824
+Paneer Franky 	138		22.000		4.003		731
+
+
+=========
+SEPTEMBER
+=========
+
+ITEM NAME		ID  	Price   	avgR  		Count
+------------------------------------------------------
+Chese Toast		128		25.000		4.073		8220
+Paneer Franky	138		22.000		4.110		1356
+Pasta			12		30.000		4.105		1428
+Chese burger	124		25.000		4.137		548
+Chi Sandwich	142		25.000		4.068		730
+
+
+ITEM NAME 		ID	Price	avgR	Count
+Pasta			12	30.000	4.082	1131
+Chi Sandwich 142	25.000	4.072	3298
+124	25.000	4.108	970
+128	25.000	4.102	5935
+138	22.000	4.088	1083
+54	25.000	5.000	1
+
+
